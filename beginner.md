@@ -52,3 +52,7 @@
 * https://www.superdatascience.com/podcast/41/
 * https://www.superdatascience.com/podcast/35/
 * https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/
+
+---
+
+See something missing? Visit our [GitHub Repo](https://github.com/vogt4nick/datascience-wiki) and make a pull request.
