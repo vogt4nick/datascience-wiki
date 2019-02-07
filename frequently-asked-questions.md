@@ -1,5 +1,5 @@
 
-# Data Science Lifecycle
+# Frequently Asked Questions
 
 This page is organized around four milestones shared by every practising data scientist:
 
