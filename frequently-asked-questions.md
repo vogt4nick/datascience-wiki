@@ -263,6 +263,8 @@ Concepts like relational algebra, when to use clustered/non-clustered indexes, e
 
 You absolutely do not need to understand administrative concepts like managing permissions.
 
+Finally, [there are numerous query engines](https://i.imgur.com/WIIHmmm.mp4) and therefore numerous dialects of SQL. Use whichever dialect is supported in your chosen resource. There's not much difference between them, so it's easy to learn another dialect after you've learned one.
+
 #### Curated Answers and Threads
 
 1. [The SQL Tutorial for Data Analysis | Mode.com](https://mode.com/sql-tutorial/introduction-to-sql/)
@@ -270,6 +272,7 @@ You absolutely do not need to understand administrative concepts like managing p
     - A Free MOOC supported by Stanford University.  
 3. [SQL Queries for Mere Mortals](https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands/dp/0321992474)
     - A $30 book [highly recommended by /u/karmanujan](https://www.reddit.com/r/datascience/comments/ame313/after_nearly_100000_subscribers_we_still_dont/efljc59)
+
 ---
 
 ### Should I Go to Grad School?
