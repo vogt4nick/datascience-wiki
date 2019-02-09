@@ -1,6 +1,8 @@
 
 # Frequently Asked Questions
 
+Questions are briefly answered and followed by a curated list of relevant threads and answers. The curated resources are sometimes annotated for clarity.  
+
 This page is organized around four milestones shared by every practising data scientist:
 
 1. __Aware__. I've heard of data science. I want to learn more about it.
@@ -11,30 +13,87 @@ This page is organized around four milestones shared by every practising data sc
 
 4. __Employed__. I work in data science and I am looking for ways to improve. 
 
+It goes without saying, but we'll say it here, the brief answers speak to the general case unless otherwise stated. Special cases are answered in the curated resources.
+
+This page is currently under development. Check back in periodically as content as added.
+
 ## Aware
 
 > I've heard of data science. I want to learn more about it.  
 
-### What is data science?  
+### What Is a Data Scientist?
 
 > Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.  
 > \- Josh Wills, [Twitter](https://twitter.com/josh_wills/status/198093512149958656?lang=en)
 
-### How are data scientists/analysts/engineers/ops different?  
+#### Curated Answers and Threads
+
+1. [So you want to be a data scientist...](https://www.reddit.com/r/datascience/comments/2vomul/so_you_want_to_be_a_data_scientist/)
+2. [KD Nuggets, 9 Must-have skills you need to become a Data Scientist](https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html)  
+    - A good primer on the average data scientist's skillset.  
+
+---
 
 ### What kinds of a data scientists are there?
 
-Statistician, Engineer
+#### Curated Answers and Threads
+
+---
+
+### How Are Data Scientists Different From Data Analysts?
+
+Broadly speaking, the roles differ in scope: data analysts build reports with narrow, well-defined KPIs. Data scientists often to work on broader business problems without clear solutions. Data scientists live on the edge of the known and unknown.
+
+We'll leave you with a concrete example: A data analyst cares about profit margins. A data scientist at the same company cares about market share.
+
+#### Curated Answers and Threads
+
+1. [/u/Aginyan's answer to Data Analyst vs Data Scientist?](https://www.reddit.com/r/datascience/comments/4l96h0/data_analyst_vs_data_scientist/d3lnpz7)
+
+2. [Why is the pay gap so large between data analysts and data scientists?](https://www.reddit.com/r/datascience/comments/7u0a4d/why_is_the_pay_gap_so_large_between_data_analysts/)
+
+3. [Data Analyst vs Data Scientist vs Data Engineer, growth potential?](https://www.reddit.com/r/BusinessIntelligence/comments/8mftwo/data_analyst_vs_data_scientist_vs_data_engineer/)
 
 ---
 
 ### How Is Data Science Used in Software?
 
+#### Curated Answers and Threads
+
+
 ### How Is Data Science Used in the Auto Industry?
+
+#### Curated Answers and Threads
+
 
 ### How Is Data Science Used in Medicine?
 
+#### Curated Answers and Threads
+
+
 ### How Is Data Science Used in Political Science?
+
+#### Curated Answers and Threads
+
+---
+
+### Is It True That Data Scientists Earn a Lot of Money?
+
+Most people are attracted to data science for the salary. It's true that data scientists garner high salaries comparies to their peers. There is data to support this: The May 2018 edition of the BurtchWorks Data Science Salary Survey, annual salary statistics were  
+
+|Title|25th Percentile|50th Percentile|75th Percentile|N|  
+|:--|--:|--:|--:|--:|  
+|Entry-Level Data Scientist |  $80,000 |  $95,000 | $110,000 |  97|  
+|Mid-Level Data Scientist   | $114,055 | $128,750 | $144,500 | 107|  
+|Senior Data Scientist      | $150,000 | $165,000 | $194,000 |  47|  
+
+Note the above numbers do not reflect total compensation which often includes standard benefits and may include company ownership at high levels.
+
+#### Curated Answers and Threads
+
+1. [BurtchWorks Data Science Salary Survey, May 2018](https://www.burtchworks.com/wp-content/uploads/2018/05/Burtch-Works-Study_DS-2018.pdf)  
+1. [H1B Salary Database](https://h1bdata.info/index.php?em=&job=Data+Scientist&city=&year=2018)  
+1. [Realistic Salary estimator for data scientist?](https://www.reddit.com/r/datascience/comments/925ee1/realistic_salary_estimator_for_data_scientist/)
 
 ---
 
@@ -55,6 +114,20 @@ Statistician, Engineer
 > I want to become a data scientist. How do I make it a reality?  
 
 ### How do I become a Data Scientist?
+
+The roadmap given to aspiring data scientists can be boiled down to three steps:  
+
+1. Earning an undergraduate and/or advanced degree in computer science, statistics, or mathematics,  
+2. Building their portfolio of SQL, Python, and R skills, and  
+3. Getting related work experience through technical internships.  
+
+All three require a significant time and financial commitment.
+
+There used to be a saying around /r/datascience: The road into a data science starts with two years of university-level math.
+
+#### Curated Answers and Threads:
+
+1. [So you want to be a data scientist...](https://www.reddit.com/r/datascience/comments/2vomul/so_you_want_to_be_a_data_scientist/)
 
 ### How do I become a Data Analyst?
 
