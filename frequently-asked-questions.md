@@ -169,10 +169,14 @@ There used to be a saying around /r/datascience: The road into a data science st
 
 ### Should I Go to Grad School?
 
+/u/drhorn said it best in [Want to pursue career in Data Science, need advice](https://www.reddit.com/r/datascience/comments/6gqx2q/want_to_pursue_career_in_data_science_need_advice/dit1zkx):
+
 > If you can find a job doing data-related work that you enjoy, don't go to grad school; continue to work and teach yourself whatever you need (or want) to learn.  
 > If you are not being considered for jobs that you actually want to do - and the reason is that you don't have a background that is classically found in data science - then you may want to consider grad school as a safer route to be qualified for said jobs.
-> \-  /u/drhorn, [Want to pursue career in Data Science, need advice](https://www.reddit.com/r/datascience/comments/6gqx2q/want_to_pursue_career_in_data_science_need_advice/dit1zkx)
 
+#### Curated Answers and Threads
+
+1. [Want to pursue career in Data Science, need advice](https://www.reddit.com/r/datascience/comments/6gqx2q/want_to_pursue_career_in_data_science_need_advice/dit1zkx)
 ---
 
 ### Which Graduate Program Should I Apply to in North America?
