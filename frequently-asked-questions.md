@@ -31,7 +31,7 @@ This page is currently under development. Check back in periodically as content 
 1. [So you want to be a data scientist...](https://www.reddit.com/r/datascience/comments/2vomul/so_you_want_to_be_a_data_scientist/)
 2. [KD Nuggets, 9 Must-have skills you need to become a Data Scientist](https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html)  
     - A good primer on the average data scientist's skillset.  
-
+3. [We Are All Data Scientists](https://www.reddit.com/r/datascience/comments/alpwld/we_are_all_data_scientists/)
 ---
 
 ### What kinds of a data scientists are there?
