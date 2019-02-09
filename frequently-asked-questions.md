@@ -1,7 +1,7 @@
 
 # Frequently Asked Questions
 
-Questions are briefly answered and followed by a curated list of relevant threads and answers. The curated resources are sometimes annotated for clarity.  
+Questions are briefly answered and followed by a curated list of relevant threads and answers. The curated resources are sometimes annotated for clarity. __Resources are free__ unless otherwise stated. 
 
 This page is organized around four milestones shared by every practising data scientist:
 
@@ -125,17 +125,16 @@ All three require a significant time and financial commitment.
 
 There used to be a saying around /r/datascience: The road into a data science starts with two years of university-level math.
 
-#### Curated Answers and Threads:
+#### Curated Answers and Threads
 
-1. [So you want to be a data scientist...](https://www.reddit.com/r/datascience/comments/2vomul/so_you_want_to_be_a_data_scientist/)
+1. [So you want to be a data scientist...](https://www.reddit.com/r/datascience/comments/2vomul/so_you_want_to_be_a_data_scientist/)  
+1. [My 7 Year Data Analytics Career Journey](https://www.reddit.com/r/datascience/comments/6rh7ns/my_7_year_data_analytics_career_journey/)
+
+### What is the data science career path?
 
 ### How do I become a Data Analyst?
 
 ### How do I become a Data Engineer?
-
----
-
-### What is the data science career path?
 
 ---
 
@@ -149,22 +148,106 @@ There used to be a saying around /r/datascience: The road into a data science st
 
 ---
 
+### Why Should I Learn Probability?
+
+### Why Should I Learn Linear Modeling?
+
+### Why Should I Learn Machine Learning?
+
+### Why Should I Learn Calculus?
+
+### Why Should I Learn Linear Algebra?
+
+### Why Should I Learn Python?
+
+### Why Should I Learn R?
+
+### Why Should I Learn SQL?
+
+---
+
 ### How Do I Learn Probability?
+
+#### Curated Answers and Threads
+
 
 ### How Do I Learn Linear Modeling?
 
+#### Curated Answers and Threads
+
+
 ### How Do I Learn Machine Learning?
+
+#### Curated Answers and Threads
+
 
 ### How Do I Learn Calculus?
 
+#### Curated Answers and Threads
+
+
 ### How Do I Learn Linear Algebra?
+
+#### Curated Answers and Threads
+
+1. [3blue1brown's Essence of Linear Algebra Playlist](https://www.youtube.com/watch?v=fNk_zzaMoSs&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 
 ### How Do I Learn Python?
 
+If you don't know the first thing about programming, start with MIT's course in the curated list.
+
+These modules are the standard tools for data analysis in Python:
+
+- `pandas` (and by extension, `numpy`)
+    - Check out [Minimally Sufficient Pandas](https://www.reddit.com/r/datascience/comments/alhmp1/minimally_sufficient_pandas/) for style guides and best practices.
+- `matplotlib` and `seaborn`
+    - [See /u/rhiever's response to How do you decide between the plotting libraries: Matplotlib, Seaborn, Bokeh?](https://www.reddit.com/r/Python/comments/4tuwoz/how_do_you_decide_between_the_plotting_libraries/d5kyyk6)
+    - Don't worry about bokeh or dash unless you have a personal interest in interactive visualizations.
+- `scipy` and `scikit-learn`
+    - Internalize the `.fit()` and `.predict()` pattern.
+
+#### Curated Answers and Threads
+
+1. [MIT's Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
+    - A free, archived course taught at MIT in the fall 2016 semester.  
+2. [Data Scientist with Python Career Track | DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python)  
+    - The first courses are free, but unlimited access costs $29/month. Users usually report a positive experience, and it's one of the better hands-on ways to learn Python.  
+3. [Sentdex's (Harrison Kinsley) Youtube Channel](https://www.youtube.com/user/sentdex/playlists)
+    - Related to pythonprogramming.net  
+4. /r/learnpython is an active sub and very useful for learning the basics.
+
 ### How Do I Learn R?
+
+If you don't know the first thing about programming, start with R for Data Science in the curated list.
+
+These modules are the standard tools for data analysis in Python:
+
+#### Curated Answers and Threads
+
+1. [R for Data Science by Hadley Wickham](https://r4ds.had.co.nz/)
+    - A free ebook full of succinct code examples. Terrific for learning tidyverse syntax.
+    - Folks with some math background may prefer the free alternative, [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/).  
+2. [Data Scientist with R Career Track | DataCamp](https://www.datacamp.com/tracks/data-scientist-with-r)
+    - The first courses are free, but unlimited access costs $29/month. Users usually report a positive experience, and it's one of the few hands-on ways to learn R.
+3. [R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+    - Learners with a CS background will appreciate this free handbook explaining how and why R behaves the way that it does.  
 
 ### How Do I Learn SQL?
 
+Prioritize the basics of SQL. i.e. when to use functions like `POW`, `SUM`, `RANK`; the computational complexity of the different kinds of joins.
+
+Concepts like relational algebra, when to use clustered/non-clustered indexes, etc. are useful, but (almost) never come up in interviews. 
+
+You absolutely do not need to understand administrative concepts like managing permissions.
+
+#### Curated Answers and Threads
+
+1. [The SQL Tutorial for Data Analysis | Mode.com](https://mode.com/sql-tutorial/introduction-to-sql/)
+2. [Introduction to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+    - A Free MOOC supported by Stanford University.  
+3. [SQL Queries for Mere Mortals](https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands/dp/0321992474)
+    - A $30 book [highly recommended by /u/karmanujan](https://www.reddit.com/r/datascience/comments/ame313/after_nearly_100000_subscribers_we_still_dont/efljc59)
 ---
 
 ### Should I Go to Grad School?
