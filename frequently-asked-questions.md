@@ -24,7 +24,13 @@ This page is currently under development. Check back in periodically as content 
 ### What Is a Data Scientist?
 
 > Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.  
-> \- Josh Wills, [Twitter](https://twitter.com/josh_wills/status/198093512149958656?lang=en)
+> \- [Josh Wills](https://twitter.com/josh_wills/status/198093512149958656?lang=en)
+
+> Data scientists apply sophisticated quantitative and computer science skills to both structure and analyze massive stores or continuous streams of unstructured data, with the intent to derive insights and prescribe action.  
+> \- [Burtch Works Data Science Salary Survey, May 2018](https://www.burtchworks.com/wp-content/uploads/2018/05/Burtch-Works-Study_DS-2018.pdf)
+
+> More than anything, what data scientists do is make discoveries while swimming in data... In a competitive landscape where challenges keep changing and data never stop flowing, data scientists help decision makers shift from ad hoc analysis to an ongoing conversation with data.  
+> \- [Data Scientist: The Sexiest Job of the 21st Century, Harvard Business Review](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
 
 #### Curated Answers and Threads
 
@@ -34,7 +40,23 @@ This page is currently under development. Check back in periodically as content 
 3. [We Are All Data Scientists](https://www.reddit.com/r/datascience/comments/alpwld/we_are_all_data_scientists/)
 ---
 
-### What kinds of a data scientists are there?
+### Do All Data Scientists Hold Graduate Degrees?
+
+Data scientists are highly educated. With exceedingly rare exception, every data scientist holds at least an undergraduate degree. 91% of data scientists in 2018 held advanced degrees. The remaining 9% all held undergraduate degrees. Furthermore,  
+
+> - 25% of data scientists hold a degree in statistics or mathematics,  
+> - 20% have a computer science degree,  
+> - an additional 20% hold a degree in the natural sciences, and  
+> - 18% hold an engineering degree.  
+
+The remaining 17% of surveyed data scientists held degrees in business, social science, or economics.
+
+#### Curated Answers and Threads
+
+1. [BurtchWorks Data Science Salary Survey, May 2018](https://www.burtchworks.com/wp-content/uploads/2018/05/Burtch-Works-Study_DS-2018.pdf)  
+
+
+### What Kinds of Data Scientists Are There?
 
 #### Curated Answers and Threads
 
