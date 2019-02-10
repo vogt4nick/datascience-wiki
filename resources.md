@@ -1,7 +1,50 @@
 
 # Resources  
 
-## Books  
+## Books
+
+The following sections are ideal first texts for those interested in a career in data science.
+
+### Statistics & Machine Learning
+
+[Elements of Statistical Learning by Hastie, Tibshirani, Friedman](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+
+* [Free ebook](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+* Requirements: Combinatorics, Probability, Linear Algebra
+
+### Deep Learning & Neural Networks
+
+[_Deep Learning_ by Goodfellow, Bengio, Courville, and Bach](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+
+* [Lectures and Exercises](http://www.deeplearningbook.org/) provided by the authors.  
+
+
+### Time Series Prediction and Forecasting
+
+[Forecasting: Principles and Practice by Rob Hyndman](https://www.amazon.com/Forecasting-principles-practice-Rob-Hyndman/dp/0987507109)
+
+* [Free ebook](https://otexts.org/fpp2/)
+
+
+### R Programming
+
+[R for Data Science by Hadley Wickham](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399) | [Free ebook](https://r4ds.had.co.nz/index.html)
+
+[Advanced R by Hadley Wickham](https://www.amazon.com/dp/1466586966/) | [Free ebook](https://adv-r.hadley.nz/)
+
+[R Packages by Hadley Wickham](https://www.amazon.com/dp/1491910593/) | [Free ebook](http://r-pkgs.had.co.nz/)
+
+* This triad of books are the definitive texts for readers interested in R programming. 
+
+### Python Programming
+
+[Python Machine Learning by Sebastian Raschka](https://www.amazon.com/dp/B00YSILNL0)
+
+* [Author's Code](https://github.com/rasbt/python-machine-learning-book)
+
+
+### Texts from the Megathread
 
 /r/datascience subscribers recommended their favorite books in [this megathread](https://www.reddit.com/r/datascience/comments/8jneyb/ds_book_suggestionsrecommendations_megathread/).
 
