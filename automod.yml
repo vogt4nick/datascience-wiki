@@ -1,0 +1,143 @@
+# ----------------------------------------------------------------------------
+# Remove Spam Posts 
+# ----------------------------------------------------------------------------
+
+# remove porn submissions
+domain: [porn.com, pornhub.com, porntube.com, redtube.com, socialmunch.com, spankwire.com, xhamster.com, xvideos.com, youjizz.com, youporn.com, extremetube.com, hardsextube.com]
+action: remove
+moderators_exempt: false
+
+---
+
+# remove youtube submissions
+domain: [youtube.com, youtu.be]
+action: remove
+moderators_exempt: false
+comment: Your submission has been automatically removed. Videos are not allowed in this subreddit.
+
+---
+# ----------------------------------------------------------------------------
+# Remove and redirect requests for book recommendations
+# ----------------------------------------------------------------------------
+
+type: text submission
+title (includes): ["book"]
+title#2 (includes): ["recommend"]
+comment: |
+    Looks like you're asking for book recommendations! This is a common thread at /r/datascience, so we've curated a few sources for you. 
+
+    - /r/datascience subscribers recommended their favorite books in [this megathread](https://www.reddit.com/r/datascience/comments/8jneyb/ds_book_suggestionsrecommendations_megathread/).
+    - We curated specific books on [the resources page of our wiki](https://www.reddit.com/r/datascience/wiki/resources#wiki_books). Give it a look!
+    
+    I removed your post for now. [Message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Fdatascience) if you believe I am mistaken.  
+action: remove
+
+---
+
+# ----------------------------------------------------------------------------
+# Remove and redirect requests for podcast recommendations
+# ----------------------------------------------------------------------------
+
+type: text submission
+title (includes): ["podcast"]
+title#2 (includes): ["recommend"]
+comment: |
+    Looks like you're asking for podcast recommendations! This is a common thread at /r/datascience, so we've curated a few sources for you. 
+
+    - /r/datascience subscribers recommended their favorite podcasts in [this megathread](https://www.reddit.com/r/datascience/comments/6l52a4/what_are_the_best_data_sciencerelated_podcasts/).
+    - We curated specific podcasts on [the resources page of our wiki](https://www.reddit.com/r/datascience/wiki/resources#wiki_podcasts). Give it a look!
+    - Want to start listening now? Poddl.com has a [curated list of podcasts](https://poddl.com/datascience/) as well.
+
+    I removed your post for now. [Message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Fdatascience) if you believe I am mistaken.  
+action: remove
+
+---
+# ----------------------------------------------------------------------------
+# Remove and redirect requests for MOOC recommendations
+# ----------------------------------------------------------------------------
+
+type: text submission
+title (includes): ["mooc"]
+title#2 (includes): ["recommend"]
+comment: |
+    Looks like you're asking for MOOC recommendations! This is a common thread at /r/datascience, so we've curated a few sources for you. 
+
+    - We curated specific MOOCs on [the resources page of our wiki](https://www.reddit.com/r/datascience/wiki/resources#wiki_moocs). Give it a look!
+
+    I removed your post for now. [Message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Fdatascience) if you believe I am mistaken.  
+action: remove
+
+---
+
+# ----------------------------------------------------------------------------
+# Redirect questions that belong in the weekly thread 
+# ----------------------------------------------------------------------------
+
+type: text submission
+title (includes): ["?"]
+comment: |
+    Your submission looks like a question. Does your post belong in the stickied "Entering & Transitioning" thread?
+    
+    We're working on [our wiki](https://www.reddit.com/r/datascience/wiki/index) where we've curated answers to commonly asked questions. Give it a look!  
+comment_stickied: true
+
+---
+# ----------------------------------------------------------------------------
+# Flair Posts 
+# ----------------------------------------------------------------------------
+
+title (includes): ["[Meta]"]
+set_flair: "Meta"
+overwrite_flair: true
+moderators_exempt: false
+
+---
+
+title (includes): ["[Discussion]"]
+set_flair: "Discussion"
+overwrite_flair: true
+moderators_exempt: false
+
+---
+
+title (includes): ["[Networking]"]
+set_flair: "Networking"
+overwrite_flair: true
+moderators_exempt: false
+
+---
+
+title (includes): ["[Projects]"]
+set_flair: "Projects"
+overwrite_flair: true
+moderators_exempt: false
+
+---
+
+title (includes): ["[Education]"]
+set_flair: "Education"
+overwrite_flair: true
+moderators_exempt: false
+
+---
+
+title (includes): ["[Career]"]
+set_flair: "Career"
+overwrite_flair: true
+moderators_exempt: false
+
+---
+
+title (includes): ["[Tooling]"]
+set_flair: "Tooling"
+overwrite_flair: true
+moderators_exempt: false
+
+---
+
+title (includes): ["[Fun/Trivia]"]
+set_flair: "Fun/Trivia"
+overwrite_flair: true
+moderators_exempt: false
+
+
