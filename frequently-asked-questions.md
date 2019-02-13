@@ -32,7 +32,7 @@ This page is currently under development. Check back in periodically as content 
 > More than anything, what data scientists do is make discoveries while swimming in data... In a competitive landscape where challenges keep changing and data never stop flowing, data scientists help decision makers shift from ad hoc analysis to an ongoing conversation with data.  
 > \- [Data Scientist: The Sexiest Job of the 21st Century, Harvard Business Review](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 1. [So you want to be a data scientist...](https://www.reddit.com/r/datascience/comments/2vomul/so_you_want_to_be_a_data_scientist/)
 1. [KD Nuggets, 9 Must-have skills you need to become a Data Scientist](https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html)  
@@ -52,14 +52,14 @@ Data scientists are highly educated. With exceedingly rare exception, every data
 
 The remaining 17% of surveyed data scientists held degrees in business, social science, or economics.
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 1. [BurtchWorks Data Science Salary Survey, May 2018](https://www.burtchworks.com/wp-content/uploads/2018/05/Burtch-Works-Study_DS-2018.pdf)  
 
 
 ### What Kinds of Data Scientists Are There?
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 ---
 
@@ -69,7 +69,7 @@ Broadly speaking, the roles differ in scope: data analysts build reports with na
 
 We'll leave you with a concrete example: A data analyst cares about profit margins. A data scientist at the same company cares about market share.
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 1. [/u/Aginyan's answer to Data Analyst vs Data Scientist?](https://www.reddit.com/r/datascience/comments/4l96h0/data_analyst_vs_data_scientist/d3lnpz7)
 
@@ -83,22 +83,22 @@ __Curated Answers and Threads__
 
 __How Is Data Science Used in Software?__
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 
 __How Is Data Science Used in the Auto Industry?__
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 
 __How Is Data Science Used in Medicine?__
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 
 __How Is Data Science Used in Political Science?__
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 ---
 
@@ -114,7 +114,7 @@ Most people are attracted to data science for the salary. It's true that data sc
 
 Note the above numbers do not reflect total compensation which often includes standard benefits and may include company ownership at high levels.
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 1. [BurtchWorks Data Science Salary Survey, May 2018](https://www.burtchworks.com/wp-content/uploads/2018/05/Burtch-Works-Study_DS-2018.pdf)  
 2. [H1B Salary Database](https://h1bdata.info/index.php?em=&job=Data+Scientist&city=&year=2018)  
@@ -150,7 +150,7 @@ All three require a significant time and financial commitment.
 
 There used to be a saying around /r/datascience: The road into a data science starts with two years of university-level math.
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 1. [So you want to be a data scientist...](https://www.reddit.com/r/datascience/comments/2vomul/so_you_want_to_be_a_data_scientist/)  
 1. [My 7 Year Data Analytics Career Journey](https://www.reddit.com/r/datascience/comments/6rh7ns/my_7_year_data_analytics_career_journey/)
@@ -177,7 +177,7 @@ __Why Should I Learn R?__
 
 __Why Should I Learn SQL?__
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 - [/u/EconomixTwist answered How is SQL Used in Real Data Science Jobs?](https://www.reddit.com/r/datascience/comments/amleu7/question_how_is_sql_used_in_real_data_science_jobs/efmxt23)
 
@@ -210,7 +210,7 @@ These modules are the standard tools for data analysis in Python:
 - `scipy` and `scikit-learn`
     - Internalize the `.fit()` and `.predict()` pattern.
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 1. [MIT's Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
     - A free, archived course taught at MIT in the fall 2016 semester.  
@@ -226,7 +226,7 @@ If you don't know the first thing about programming, start with R for Data Scien
 
 These modules are the standard tools for data analysis in Python:
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 1. [R for Data Science by Hadley Wickham](https://r4ds.had.co.nz/)
     - A free ebook full of succinct code examples. Terrific for learning tidyverse syntax.
@@ -246,7 +246,7 @@ You absolutely do not need to understand administrative concepts like managing p
 
 Finally, [there are numerous query engines](https://i.imgur.com/WIIHmmm.mp4) and therefore numerous dialects of SQL. Use whichever dialect is supported in your chosen resource. There's not much difference between them, so it's easy to learn another dialect after you've learned one.
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 1. [The SQL Tutorial for Data Analysis | Mode.com](https://mode.com/sql-tutorial/introduction-to-sql/)
 2. [Introduction to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
@@ -257,27 +257,27 @@ __Curated Answers and Threads__
 
 __How Do I Learn Probability?__
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 
 __How Do I Learn Linear Modeling?__
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 
 __How Do I Learn Machine Learning?__
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 
 __How Do I Learn Calculus?__
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 
 __How Do I Learn Linear Algebra?__
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 1. [3blue1brown's Essence of Linear Algebra Playlist](https://www.youtube.com/watch?v=fNk_zzaMoSs&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
@@ -290,7 +290,7 @@ __Curated Answers and Threads__
 > If you can find a job doing data-related work that you enjoy, don't go to grad school; continue to work and teach yourself whatever you need (or want) to learn.  
 > If you are not being considered for jobs that you actually want to do - and the reason is that you don't have a background that is classically found in data science - then you may want to consider grad school as a safer route to be qualified for said jobs.
 
-__Curated Answers and Threads__
+__Curated Resources__
 
 1. [Want to pursue career in Data Science, need advice](https://www.reddit.com/r/datascience/comments/6gqx2q/want_to_pursue_career_in_data_science_need_advice/dit1zkx)
 
@@ -348,6 +348,25 @@ __I'm a New PhD Graduate, How Do I become a Data Scientist?__
 ---
 
 ### What does the typical data science interview process look like?
+
+For general advice, [Mastering the DS Interview Loop](https://towardsdatascience.com/mastering-the-data-science-interview-15f9c0a558a7) is a terrific article. The community [discussed the article here](https://www.reddit.com/r/datascience/comments/air0nf/mastering_the_data_science_interview_loop/).  
+
+Briefly summarized, most companies follow a five stage process:  
+
+1. Coding Challenge  
+    - Most common at software companies and roles contributing to a digital product.  
+2. HR Screen  
+3. Technical Screen  
+    - Often in the form of a project. Less frequently, it takes the form of a whiteboarding session at the onsite.  
+4. Onsite  
+    - Usually the project from the technical screen is presented here, followed by a meeting with the director overseeing the team you'll join.  
+5. Negotiation & Offer  
+
+Advice specific to Facebook, Zillow, and other companies follows below.  
+
+__Curated Resources__
+
+- [Mastering the DS Interview Loop](https://towardsdatascience.com/mastering-the-data-science-interview-15f9c0a558a7)
 
 __What does the Airbnb data science interview process look like?__
 
