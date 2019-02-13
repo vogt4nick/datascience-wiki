@@ -198,6 +198,7 @@ __Why Should I Learn Linear Algebra?__
 
 __How Do I Learn Python?__
 
+
 If you don't know the first thing about programming, start with MIT's course in the curated list.
 
 These modules are the standard tools for data analysis in Python:
@@ -330,7 +331,6 @@ __I'm a New PhD Graduate, How Do I become a Data Scientist?__
 
 ### What Do Professionals Think of Kaggle?
 
-
 ---
 
 ## Searching
@@ -381,6 +381,7 @@ __What does the Google data science interview process look like?__
 __What does the Netflix data science interview process look like?__
 
 __What does the Apple data science interview process look like?__
+
 
 ---
 
