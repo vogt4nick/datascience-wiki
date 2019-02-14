@@ -23,9 +23,8 @@ type: submission
 author:
     combined_karma: '< 50'
 action: remove
-message_subject: Your submission to /r/datascience has been removed.  
-message: | 
-    Your text submission to /r/datascience has been removed. Does it belong in the [weekly entering & transitioning thread](https://www.reddit.com/r/datascience/search?q=Weekly%20Entering%20%26%20Transitioning%20Thread&restrict_sr=1&t=week)?
+comment: | 
+    Your {{kind}} to {{domain}} has been removed. Does it belong in the [weekly entering & transitioning thread](https://www.reddit.com/r/datascience/search?q=Weekly%20Entering%20%26%20Transitioning%20Thread&restrict_sr=1&t=week)?
 
     Alternatively, you may find useful resources on [the wiki](https://www.reddit.com/r/datascience/wiki/index).
 
