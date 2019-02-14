@@ -16,9 +16,10 @@ moderators_exempt: false
 comment: Your submission has been automatically removed. Videos are not allowed in this subreddit.
 
 ---
-
-# remove text submissions by users with less than 50 karma
-type: text submission
+# ----------------------------------------------------------------------------
+# remove submissions by users with less than 50 karma
+# ----------------------------------------------------------------------------
+type: submission
 author:
     combined_karma: '< 50'
 action: remove
