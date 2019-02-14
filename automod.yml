@@ -32,6 +32,29 @@ message: |
 
 ---
 # ----------------------------------------------------------------------------
+# remove submissions by users with less than 50 karma
+# ----------------------------------------------------------------------------
+type: submission
+author:
+    combined_karma: '< 50'
+action: remove
+comment: | 
+    Your {{kind}} to {{domain}} has been removed. Does it belong in the [weekly entering & transitioning thread](https://www.reddit.com/r/datascience/search?q=Weekly%20Entering%20%26%20Transitioning%20Thread&restrict_sr=1&t=week)?
+
+    Alternatively, you may find useful resources on [the wiki](https://www.reddit.com/r/datascience/wiki/index).
+
+    If you think your post does not belong in the entering & transitioning thread, [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Fdatascience) to approve your post. 
+---
+# ----------------------------------------------------------------------------
+# remove troll activity
+# ----------------------------------------------------------------------------
+type: any
+author:
+    combined_karma: '< -10'
+action: remove
+
+---
+# ----------------------------------------------------------------------------
 # Remove and redirect requests for book recommendations
 # ----------------------------------------------------------------------------
 
