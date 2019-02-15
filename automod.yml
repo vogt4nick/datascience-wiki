@@ -13,7 +13,17 @@ moderators_exempt: false
 domain: [youtube.com, youtu.be]
 action: remove
 moderators_exempt: false
-comment: Your submission has been automatically removed. Videos are not allowed in this subreddit.
+comment: Your {{kind}} has been automatically removed. Videos are not allowed in r/{{domain}}.
+
+---
+# remove articles from content aggregators (usually spam from these sources)
+domain: [towardsdatascience.com, medium.com]
+action: remove
+moderators_exempt: true
+comment: |
+    Your {{kind}} has been automatically removed. 
+    
+    r/{{domain}} receives a lot of spam from that domain. Try sharing the original article and offer context for discussion in the title of your {{kind}}. 
 
 ---
 # ----------------------------------------------------------------------------
@@ -24,11 +34,10 @@ author:
     combined_karma: '< 50'
 action: remove
 comment: | 
-    Your {{kind}} to {{domain}} has been removed. Does it belong in the [weekly entering & transitioning thread](https://www.reddit.com/r/datascience/search?q=Weekly%20Entering%20%26%20Transitioning%20Thread&restrict_sr=1&t=week)?
+    Your {{kind}} to r/{{domain}} has been removed. Does it belong in the [weekly entering & transitioning thread](https://www.reddit.com/r/datascience/search?q=Weekly%20Entering%20%26%20Transitioning%20Thread&restrict_sr=1&t=week)?
 
     Alternatively, you may find useful resources on [the wiki](https://www.reddit.com/r/datascience/wiki/index).
 
-    If you think your post does not belong in the entering & transitioning thread, [message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Fdatascience) to approve your post. 
 ---
 # ----------------------------------------------------------------------------
 # remove troll activity
