@@ -79,6 +79,21 @@ __Curated Resources__
 
 ---
 
+### Is The Data Science Job Market Saturated?
+
+[Quoting /u/drhorn](https://www.reddit.com/r/datascience/comments/aqvr76/glut_or_shortage/egiwqd7),
+
+> There's a glut of fresh out of college people who know textbook data science.  
+> There is a huge shortage of established, experienced data scientists who have experience with real world problems.  
+> The former group think that experience is overrated. The second group (and most people who are hiring) do not.
+
+__Curated Resources__
+
+- [Glut or Shortage?](https://www.reddit.com/r/datascience/comments/aqvr76/glut_or_shortage)
+- Data Science is Different Now ([thread](https://www.reddit.com/r/datascience/comments/aqkq8y/vicky_boykis_data_science_is_different_now/) | [article](https://veekaybee.github.io/2019/02/13/data-science-is-different/))
+
+---
+
 ### How Is Data Science Used in...
 
 __How Is Data Science Used in Software?__
