@@ -2,52 +2,42 @@ If you edit this page, you must [click this link](http://www.reddit.com/message/
 
 ---
 
-    first: '2019-02-16 04:10 PM -05'  
-    title: 'Automod Config Test - {{date %B %d, %Y at %H:%m %p}}'  
-    repeat: 1 week  
-    distinguish: true  
-    sticky: 2  
+    first: '2019-02-16 06:10 PM -05'  
+    sticky: true  
+    title: 'Automod Config Test - {{date %B %d, %Y}}'  
     text: |  
         Welcome to this week's 'Entering & Transitioning' thread!  
 
-        This thread is a weekly sticky post meant for any questions about getting started, studying, or transitioning into the data science field.  
-
-        This includes questions around learning and transitioning such as:  
+        This thread is a weekly sticky post meant for any questions about getting started, studying, or transitioning into the data science field. This includes questions around learning and transitioning such as:  
 
         * Learning resources (e.g., books, tutorials, videos)  
-
-        * Traditional education (e.g., schools, degrees, electives)
-
-        * Alternative education (e.g., online courses, bootcamps)
-
-        * Career questions (e.g., resumes, applying, career prospects)
-
-        * Elementary questions (e.g., where to start, what next)
+        * Traditional education (e.g., schools, degrees, electives)  
+        * Alternative education (e.g., online courses, bootcamps)  
+        * Career questions (e.g., resumes, applying, career prospects)  
+        * Elementary questions (e.g., where to start, what next)  
 
         While you're waiting for answers, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and [Resources](https://www.reddit.com/r/datascience/wiki/resources) pages on our wiki.  
+
+        ^(Last configured: 2019-02-16 6:02 PM EDT by /u/vogt4nick)
 
 ---
 
-    first: '2019-02-18 06:00 PM -05'  
-    title: 'Weekly Entering & Transitioning Thread - {{date %B %d, %Y}}'  
+    first: '2019-02-18 06:10 PM -05'  
     repeat: 1 week  
+    sticky: true  
     distinguish: true  
-    sticky: 2  
+    title: 'Weekly Entering & Transitioning Thread - {{date %B %d, %Y}}'  
     text: |  
         Welcome to this week's 'Entering & Transitioning' thread!  
 
-        This thread is a weekly sticky post meant for any questions about getting started, studying, or transitioning into the data science field.  
-
-        This includes questions around learning and transitioning such as:  
+        This thread is a weekly sticky post meant for any questions about getting started, studying, or transitioning into the data science field. This includes questions around learning and transitioning such as:  
 
         * Learning resources (e.g., books, tutorials, videos)  
-
-        * Traditional education (e.g., schools, degrees, electives)
-
-        * Alternative education (e.g., online courses, bootcamps)
-
-        * Career questions (e.g., resumes, applying, career prospects)
-
+        * Traditional education (e.g., schools, degrees, electives)  
+        * Alternative education (e.g., online courses, bootcamps)  
+        * Career questions (e.g., resumes, applying, career prospects)  
         * Elementary questions (e.g., where to start, what next)
 
         While you're waiting for answers, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and [Resources](https://www.reddit.com/r/datascience/wiki/resources) pages on our wiki.  
+
+        ^(Last configured: 2019-02-16 5:24 PM EDT by /u/vogt4nick)
