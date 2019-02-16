@@ -206,9 +206,34 @@ __Curated Threads & Resources__
 - [For those of you that have bachelors degrees in non-STEM fields (or no degree at all) and also have DS jobs, how did you get to where you are and what do you do?](https://www.reddit.com/r/datascience/comments/9fv7ga/for_those_of_you_that_have_bachelors_degrees_in/)
 - [Career change from Finance to Data Science/AI](https://www.reddit.com/r/cscareerquestions/comments/892t8u/career_change_from_finance_to_data_scienceai/)
 - [Seeking Advice about a Career Change to Data Science as a Sociology Major](https://www.reddit.com/r/datascience/comments/7q7pab/seeking_advice_about_a_career_change_to_data/)
-- []()
 
 ---
+
+### What Should I Learn? What Order Do I Learn Them?
+
+This answer assumes your academic background ends with a HS diploma in the US.
+
+1. Python
+2. Differential Calculus
+3. Integral Calculus
+4. Multivariable Calculus
+5. Linear Algebra
+6. Probability
+7. Statistics
+
+Some follow up questions and answers:
+
+__Why Python first?__
+
+- Python is a general purpose language. R is used primarily by statisticians. In the likely scenario that you decide data science requires too much time, effort, and money, Python will be more valuable than your R skills. It's preparing you to fail, sure, but in the same way a savings account is preparing you to fail.
+
+__When do I start working with data?__
+
+- You'll start working with data when you've learned enough Python to do so. Whether you'll have the tools to have any fun is a much more open-ended question.  
+
+__How long will this take me?__
+
+- Assuming self-study and average intelligence, 3-5 years from start to finish.
 
 ### Why Should I Learn...
 
@@ -222,23 +247,21 @@ __Curated Threads & Resources__
 
 - [/u/EconomixTwist answered How is SQL Used in Real Data Science Jobs?](https://www.reddit.com/r/datascience/comments/amleu7/question_how_is_sql_used_in_real_data_science_jobs/efmxt23)
 
-__Why Should I Learn Probability?__
-
-__Why Should I Learn Linear Modeling?__
-
-__Why Should I Learn Machine Learning?__
-
 __Why Should I Learn Calculus?__
 
 __Why Should I Learn Linear Algebra?__
 
+__Why Should I Learn Probability?__
+
+__Why Should I Learn Statistics?__
+
+__Why Should I Learn Machine Learning?__
 
 ---
 
 ### How Do I Learn...
 
 __How Do I Learn Python?__
-
 
 If you don't know the first thing about programming, start with MIT's course in the curated list.
 
@@ -296,32 +319,56 @@ __Curated Threads & Resources__
 3. [SQL Queries for Mere Mortals](https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands/dp/0321992474)
     - A $30 book [highly recommended by /u/karmanujan](https://www.reddit.com/r/datascience/comments/ame313/after_nearly_100000_subscribers_we_still_dont/efljc59)
 
+__How Do I Learn Calculus?__
+
+Fortunately (or unfortunately), calculus is the lament of many students, and so resources for it are plentiful. Khan Academy mimics lectures very well, and Paul's Online Math Notes are a terrific reference full of practice problems and solutions.
+
+Calculus, however, is not just calculus. For those unfamiliar with US terminology, 
+
+- Calculus I is differential calculus.
+- Calculus II is integral calculus. 
+- Calculus III is multivariable calculus. 
+- Calculus IV is differential equations. 
+
+Differential and integral calculus are both necessary for probability and statistics, and should be completed first.
+
+Multivariable calculus can be paired with linear algebra, but is also required.  
+
+Differential equations is where consensus falls apart. The short it is, they're all but necessary for mathematical modeling, but not everyone does mathematical modeling. It's another tool in the toolbox.
+
+__Curated Threads & Resources__
+
+- Khan Academy 
+    - [Differential Calculus](https://www.khanacademy.org/math/calculus-1)
+    - [Integral Calculus](https://www.khanacademy.org/math/calculus-2)
+    - [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+    - [Differential Equations](https://www.khanacademy.org/math/differential-equations)  
+- Paul's Online Math Notes  
+    - [Differential Calculus](http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
+    - [Integral Calculus](http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx) 
+    - [Multivariable Calculus](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
 
 __How Do I Learn Probability?__
 
-__Curated Threads & Resources__
+Probability is not friendly to beginners. Definitions are rooted in higher mathematics, notation varies from source to source, and solutions are frequently unintuitive. Probability may present the biggest barrier to entry in data science.
 
+It's best to pick a single primary source and a community for help. If you can spend the money, register for a university or community college course and attend in person.
 
-__How Do I Learn Linear Modeling?__
-
-__Curated Threads & Resources__
-
-
-__How Do I Learn Machine Learning?__
-
-__Curated Threads & Resources__
-
-
-__How Do I Learn Calculus?__
-
-__Curated Threads & Resources__
-
+The best free resource is [MIT's 18.05 Introduction to Probability and Statistics (Spring 2014)](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/). Leverage /r/learnmath, /r/learnmachinelearning, and /r/AskStatistics when you get inevitably stuck.
 
 __How Do I Learn Linear Algebra?__
 
 __Curated Threads & Resources__
 
 1. [3blue1brown's Essence of Linear Algebra Playlist](https://www.youtube.com/watch?v=fNk_zzaMoSs&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+__How Do I Learn Statistics?__
+
+__Curated Threads & Resources__
+
+__How Do I Learn Machine Learning?__
+
+__Curated Threads & Resources__
 
 ---
 
