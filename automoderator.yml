@@ -1,22 +1,20 @@
 # ----------------------------------------------------------------------------
 # Remove Spam Posts 
 # ----------------------------------------------------------------------------
-
-# remove porn submissions
+## remove porn submissions
 domain: [porn.com, pornhub.com, porntube.com, redtube.com, socialmunch.com, spankwire.com, xhamster.com, xvideos.com, youjizz.com, youporn.com, extremetube.com, hardsextube.com]
 action: remove
 moderators_exempt: false
 
 ---
-
-# remove youtube submissions
+## remove youtube submissions
 domain: [youtube.com, youtu.be]
 action: remove
 moderators_exempt: false
 comment: Your {{kind}} has been automatically removed. Videos are not allowed in r/datascience.
 
 ---
-# remove articles from content aggregators (usually spam from these sources)
+## remove articles from content aggregators (usually spam from these sources)
 domain: [towardsdatascience.com, medium.com]
 action: remove
 moderators_exempt: true
@@ -26,9 +24,7 @@ comment: |
     r/datascience receives a lot of spam from that domain. Try sharing the original article and offer context for discussion in the title of your {{kind}}. 
 
 ---
-# ----------------------------------------------------------------------------
 # remove submissions by users with less than 50 karma
-# ----------------------------------------------------------------------------
 type: submission
 author:
     combined_karma: '< 50'
@@ -39,19 +35,14 @@ comment: |
     Alternatively, you may find useful resources on [the wiki](https://www.reddit.com/r/datascience/wiki/index).
 
 ---
-# ----------------------------------------------------------------------------
 # remove troll activity
-# ----------------------------------------------------------------------------
 type: any
 author:
     combined_karma: '< -10'
 action: remove
 
 ---
-# ----------------------------------------------------------------------------
-# Remove and redirect requests for book recommendations
-# ----------------------------------------------------------------------------
-
+## remove requests for book recommendations
 type: text submission
 title (includes): ["book"]
 title#2 (includes): ["recommend"]
@@ -60,16 +51,10 @@ comment: |
 
     - /r/datascience subscribers recommended their favorite books in [this megathread](https://www.reddit.com/r/datascience/comments/8jneyb/ds_book_suggestionsrecommendations_megathread/).
     - We curated specific books on [the resources page of our wiki](https://www.reddit.com/r/datascience/wiki/resources#wiki_books). Give it a look!
-    
-    I removed your post for now. [Message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Fdatascience) if you believe I am mistaken.  
 action: remove
 
 ---
-
-# ----------------------------------------------------------------------------
-# Remove and redirect requests for podcast recommendations
-# ----------------------------------------------------------------------------
-
+## remove and redirect requests for podcast recommendations
 type: text submission
 title (includes): ["podcast"]
 title#2 (includes): ["recommend"]
@@ -84,10 +69,7 @@ comment: |
 action: remove
 
 ---
-# ----------------------------------------------------------------------------
-# Remove and redirect requests for MOOC recommendations
-# ----------------------------------------------------------------------------
-
+## remove and redirect requests for MOOC recommendations
 type: text submission
 title (includes): ["mooc"]
 title#2 (includes): ["recommend"]
@@ -100,11 +82,17 @@ comment: |
 action: remove
 
 ---
-
 # ----------------------------------------------------------------------------
-# Redirect questions that belong in the weekly thread 
+# Comment without removing posts
 # ----------------------------------------------------------------------------
+## set automod's posts to sort by new
+type: submission
+author:
+    name: AutoModerator
+set_suggested_sort: new
 
+---
+## redirect questions that belong in the weekly thread 
 type: text submission
 title (includes): ["?"]
 comment: |
