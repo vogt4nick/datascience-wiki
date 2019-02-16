@@ -1,0 +1,17 @@
+# ----------------------------------------------------------------------------
+# How To Update the Schedule
+# ----------------------------------------------------------------------------
+# If you edit this page, you must click the link below and click "send" to 
+# have AutoModerator re-load the schedule from here
+# 
+# http://www.reddit.com/message/compose/?to=AutoModerator&subject=datascience&message=schedule
+# ----------------------------------------------------------------------------
+
+---
+
+first: "February 16, 2019 3:05 PM -05"
+# repeat: 1 week
+# sticky: true
+title: "automod config test 1505"
+text: |
+    This is a test of the automod scheduler.  
