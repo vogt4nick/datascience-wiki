@@ -98,6 +98,9 @@ type: submission
 author:
     name: AutoModerator
 set_suggested_sort: new
+set_sticky: 1
+set_flair: "Discussion"
+action: approve
 priority: 2
 
 ---
