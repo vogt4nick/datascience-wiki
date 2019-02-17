@@ -2,9 +2,8 @@ If you edit this page, you must [click this link](http://www.reddit.com/message/
 
 ---
 
-    first: '2019-02-16 06:10 PM -05'  
-    sticky: true  
-    title: 'Automod Config Test - {{date %B %d, %Y}}'  
+    first: '2019-02-16 08:17 PM -05'  
+    title: 'Automod Config Test (Replace Sticky) - {{date %B %d, %Y}}'  
     text: |  
         Welcome to this week's 'Entering & Transitioning' thread!  
 
@@ -18,14 +17,12 @@ If you edit this page, you must [click this link](http://www.reddit.com/message/
 
         While you're waiting for answers, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and [Resources](https://www.reddit.com/r/datascience/wiki/resources) pages on our wiki.  
 
-        ^(Last configured: 2019-02-16 6:02 PM EDT by /u/vogt4nick)
+        ^(Last configured: 2019-02-16 08:11 PM EDT by /u/vogt4nick)
 
 ---
 
-    first: '2019-02-18 06:10 PM -05'  
+    first: '2019-02-17 11:00 AM -05'  
     repeat: 1 week  
-    sticky: true  
-    distinguish: true  
     title: 'Weekly Entering & Transitioning Thread - {{date %B %d, %Y}}'  
     text: |  
         Welcome to this week's 'Entering & Transitioning' thread!  
@@ -36,8 +33,8 @@ If you edit this page, you must [click this link](http://www.reddit.com/message/
         * Traditional education (e.g., schools, degrees, electives)  
         * Alternative education (e.g., online courses, bootcamps)  
         * Career questions (e.g., resumes, applying, career prospects)  
-        * Elementary questions (e.g., where to start, what next)
+        * Elementary questions (e.g., where to start, what next)  
 
         While you're waiting for answers, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and [Resources](https://www.reddit.com/r/datascience/wiki/resources) pages on our wiki.  
 
-        ^(Last configured: 2019-02-16 5:24 PM EDT by /u/vogt4nick)
+        ^(Last configured: 2019-02-16 08:51 PM EDT by /u/vogt4nick)
