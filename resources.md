@@ -145,57 +145,6 @@ Below are a few that stand out, either because they are introductory courses, th
 * Yaser Abu-Mostafa's [Learning From Data](https://www.edx.org/course/caltechx/caltechx-cs1156x-learning-data-1120):
  Focuses a lot more on theory, but also doable for beginners
 
-## Blogs
-
-Blogs are easiest to follow through free personal aggregators [like feedly](https://feedly.com/). You can add whichever blogs you choose.
-
-We've curated a handful of our preferred bloggers covering a breadth of topics. A longer, curated list follows where you will find content aggregators, some journals, and more individual contributors.
-
-### Essential Bloggers & Aggregators
-
-[Andrew Gelman | Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)  
-
-- Gelman is (in)famous for his critiques of statistical malpractice. Gelman is also one of the most influential Bayesians in statistics today.  
-
-[Distill](https://distill.pub/)
-
-- Distill does more than teach the essentials the data science toolkit; they teach something more rare: intuition. Interactive visualizations are sure to spark your curiosity. Unfortunately for us, Distill publishes new content once monthly at the best of times.
-
-[Explained Visually](http://setosa.io/ev/)
-
-- While no longer publishing, EV hosts similar content to Distill and deserves a mention on the shortlist.
-
-[Data Science Weekly](https://www.datascienceweekly.org/)
-
-- DS Weekly is actually a weekly e-newsletter curated by Sebastian Gutierrez and Hannah Brooks. Its [archive](https://www.datascienceweekly.org/newsletters) is hard to parse, but is rich in content.
-
-[Simply Statistics](https://simplystatistics.org/)  
-
-- Despite the name, Simply Statistics evolved into a general data science blog over time. Content 
-
-[The Upshot | The New York Times](https://www.nytimes.com/section/upshot)
-
-- _The Upshot_ is regarded by many as unquestioned leader in data journalism. Articles are topical and deftly illustrate how to use data and charts to tell a story.  
-
-[FiveThirtyEight](https://fivethirtyeight.com/)
-
-- _FiveThirtyEight_ founder, Nate Silver, arguably invented data journalism in the early 2000s. Flush with content across politics, sports, economics, and more.
-
-### Additional Blogs
-
-- [Vicki Boykis](https://veekaybee.github.io/)  
-    - Vicki is a rising star in the blogosphere. Her writing is easy to read and often adds insightful commentary to modern problems in data science.
-- [R-Bloggers](https://www.r-bloggers.com/)
-    - Readers will drown in content if they aren't careful.
-- [Julia Bloggers](https://www.juliabloggers.com/)
-    - Infrequently updated, but the archive may be of interest to fans of Julia. 
-- [Towards Data Science](http://towardsdatascience.com/)
-    - A content aggregator that varies in quality.  
-- [DataTau](https://www.datatau.com/)
-    - A content aggregator that varies in quality.  
-- [DataCamp Blog](https://www.datacamp.com/community/blog)
-    - Writes to a beginner audience. Professionals may find it tedious. 
-
 ---
 
 See something missing? Visit our [GitHub Repo](https://github.com/vogt4nick/datascience-wiki) and make a pull request.
