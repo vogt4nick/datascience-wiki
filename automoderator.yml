@@ -1,22 +1,22 @@
 # ----------------------------------------------------------------------------
 # Remove Spam Posts 
 # ----------------------------------------------------------------------------
-
-# remove porn submissions
+## remove porn submissions
 domain: [porn.com, pornhub.com, porntube.com, redtube.com, socialmunch.com, spankwire.com, xhamster.com, xvideos.com, youjizz.com, youporn.com, extremetube.com, hardsextube.com]
 action: remove
 moderators_exempt: false
+priority: 1
 
 ---
-
-# remove youtube submissions
+## remove youtube submissions
 domain: [youtube.com, youtu.be]
 action: remove
 moderators_exempt: false
 comment: Your {{kind}} has been automatically removed. Videos are not allowed in r/datascience.
+priority: 1
 
 ---
-# remove articles from content aggregators (usually spam from these sources)
+## remove articles from content aggregators (usually spam from these sources)
 domain: [towardsdatascience.com, medium.com]
 action: remove
 moderators_exempt: true
@@ -24,11 +24,10 @@ comment: |
     Your {{kind}} has been automatically removed. 
     
     r/datascience receives a lot of spam from that domain. Try sharing the original article and offer context for discussion in the title of your {{kind}}. 
+priority: 1
 
 ---
-# ----------------------------------------------------------------------------
 # remove submissions by users with less than 50 karma
-# ----------------------------------------------------------------------------
 type: submission
 author:
     combined_karma: '< 50'
@@ -37,21 +36,18 @@ comment: |
     Your {{kind}} to r/datascience has been removed. Does it belong in the [weekly entering & transitioning thread](https://www.reddit.com/r/datascience/search?q=Weekly%20Entering%20%26%20Transitioning%20Thread&restrict_sr=1&t=week)?
 
     Alternatively, you may find useful resources on [the wiki](https://www.reddit.com/r/datascience/wiki/index).
+priority: 1
 
 ---
-# ----------------------------------------------------------------------------
 # remove troll activity
-# ----------------------------------------------------------------------------
 type: any
 author:
     combined_karma: '< -10'
 action: remove
+priority: 1
 
 ---
-# ----------------------------------------------------------------------------
-# Remove and redirect requests for book recommendations
-# ----------------------------------------------------------------------------
-
+## remove requests for book recommendations
 type: text submission
 title (includes): ["book"]
 title#2 (includes): ["recommend"]
@@ -60,16 +56,11 @@ comment: |
 
     - /r/datascience subscribers recommended their favorite books in [this megathread](https://www.reddit.com/r/datascience/comments/8jneyb/ds_book_suggestionsrecommendations_megathread/).
     - We curated specific books on [the resources page of our wiki](https://www.reddit.com/r/datascience/wiki/resources#wiki_books). Give it a look!
-    
-    I removed your post for now. [Message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Fdatascience) if you believe I am mistaken.  
 action: remove
+priority: 1
 
 ---
-
-# ----------------------------------------------------------------------------
-# Remove and redirect requests for podcast recommendations
-# ----------------------------------------------------------------------------
-
+## remove and redirect requests for podcast recommendations
 type: text submission
 title (includes): ["podcast"]
 title#2 (includes): ["recommend"]
@@ -82,12 +73,10 @@ comment: |
 
     I removed your post for now. [Message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Fdatascience) if you believe I am mistaken.  
 action: remove
+priority: 1
 
 ---
-# ----------------------------------------------------------------------------
-# Remove and redirect requests for MOOC recommendations
-# ----------------------------------------------------------------------------
-
+## remove and redirect requests for MOOC recommendations
 type: text submission
 title (includes): ["mooc"]
 title#2 (includes): ["recommend"]
@@ -98,19 +87,31 @@ comment: |
 
     I removed your post for now. [Message the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Fdatascience) if you believe I am mistaken.  
 action: remove
+priority: 1
 
 ---
-
 # ----------------------------------------------------------------------------
-# Redirect questions that belong in the weekly thread 
+# Comment without removing posts
 # ----------------------------------------------------------------------------
+## set automod's posts to sort by new
+type: submission
+author:
+    name: AutoModerator
+set_suggested_sort: new
+set_sticky: 1
+set_flair: "Discussion"
+action: approve
+priority: 2
 
+---
+## redirect questions that belong in the weekly thread 
 type: text submission
 title (includes): ["?"]
 comment: |
     Your submission looks like a question. Does your post belong in the stickied "Entering & Transitioning" thread?
     
     We're working on [our wiki](https://www.reddit.com/r/datascience/wiki/index) where we've curated answers to commonly asked questions. Give it a look!  
+priority: 2
 
 ---
 # ----------------------------------------------------------------------------
@@ -121,6 +122,7 @@ title (includes): ["[Meta]"]
 set_flair: "Meta"
 overwrite_flair: true
 moderators_exempt: false
+priority: 3
 
 ---
 
@@ -128,6 +130,7 @@ title (includes): ["[Discussion]"]
 set_flair: "Discussion"
 overwrite_flair: true
 moderators_exempt: false
+priority: 3
 
 ---
 
@@ -135,6 +138,7 @@ title (includes): ["[Networking]"]
 set_flair: "Networking"
 overwrite_flair: true
 moderators_exempt: false
+priority: 3
 
 ---
 
@@ -142,6 +146,7 @@ title (includes): ["[Projects]"]
 set_flair: "Projects"
 overwrite_flair: true
 moderators_exempt: false
+priority: 3
 
 ---
 
@@ -149,6 +154,7 @@ title (includes): ["[Education]"]
 set_flair: "Education"
 overwrite_flair: true
 moderators_exempt: false
+priority: 3
 
 ---
 
@@ -156,6 +162,7 @@ title (includes): ["[Career]"]
 set_flair: "Career"
 overwrite_flair: true
 moderators_exempt: false
+priority: 3
 
 ---
 
@@ -163,6 +170,7 @@ title (includes): ["[Tooling]"]
 set_flair: "Tooling"
 overwrite_flair: true
 moderators_exempt: false
+priority: 3
 
 ---
 
@@ -170,5 +178,4 @@ title (includes): ["[Fun/Trivia]"]
 set_flair: "Fun/Trivia"
 overwrite_flair: true
 moderators_exempt: false
-
-
+priority: 3
