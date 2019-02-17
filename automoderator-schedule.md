@@ -23,4 +23,6 @@ If you edit this page, you must [click this link](http://www.reddit.com/message/
 
         While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and [Resources](https://www.reddit.com/r/datascience/wiki/resources) pages on our wiki.  
 
-        ^(Last configured: 2019-02-17 09:01 AM EDT)
+        [You can also search for past weekly threads here](https://www.reddit.com/r/datascience/search?q=weekly%20thread&restrict_sr=1&t=month).
+
+        ^(Last configured: 2019-02-17 09:32 AM EDT)
