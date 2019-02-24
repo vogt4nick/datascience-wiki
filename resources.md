@@ -145,6 +145,8 @@ Below are a few that stand out, either because they are introductory courses, th
 * Yaser Abu-Mostafa's [Learning From Data](https://www.edx.org/course/caltechx/caltechx-cs1156x-learning-data-1120):
  Focuses a lot more on theory, but also doable for beginners
 
+Another resource is [this repo](https://github.com/kmario23/deep-learning-drizzle) which contains a very comprehensive list of publicly available lectures in data science, machine learning, and deep learning topics. 
+
 ---
 
 See something missing? Visit our [GitHub Repo](https://github.com/vogt4nick/datascience-wiki) and make a pull request.
