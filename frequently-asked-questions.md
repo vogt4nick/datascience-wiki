@@ -415,6 +415,15 @@ __I'm a New PhD Graduate, How Do I become a Data Scientist?__
 
 ### Should I Get AWS Certifications? Which Ones?
 
+The consensus is that certifications are unnecessary for data scientist positions.
+
+Per /u/charlie_datacamp,
+
+> I've spent the past few months talking to hiring managers and recruiters in data science. Not a single one of them has mentioned certificates even once. I literally have hours and hours of interview tapes with DS recruiters and hiring managers, 100% of the conversation was about data science job applications and hiring, and literally zero times did any of them mention certificates, or say they're impressed by this or that certificate, or wanting to see certificates.
+
+__Curated Threads & Resources__
+
+- [/u/charlie_datacamp's comment on certifications](https://www.reddit.com/r/datascience/comments/au9cn9/weekly_entering_transitioning_thread_24_feb_2019/eh9orrt/)
 ---
 
 ### What Do Professionals Think of Kaggle?
