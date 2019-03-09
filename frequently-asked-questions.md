@@ -115,7 +115,7 @@ __Curated Threads & Resources__
 
 ---
 
-### What are data scientists paid?
+### What Are Data Scientists Paid?
 
 Most people are attracted to data science for the salary. It's true that data scientists garner high salaries comparies to their peers. There is data to support this: The May 2018 edition of the BurtchWorks Data Science Salary Survey, annual salary statistics were  
 
@@ -234,6 +234,11 @@ __When do I start working with data?__
 __How long will this take me?__
 
 - Assuming self-study and average intelligence, 3-5 years from start to finish.
+
+__Curated Threads & Resources__
+
+- [Crowdsourcing the top skillset to become a decent data scientist/analyst](https://www.reddit.com/r/datascience/comments/au2u0h/crowdsourcing_the_top_skillset_to_become_a_decent/)
+
 
 ### Why Should I Learn...
 
