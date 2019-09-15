@@ -104,16 +104,6 @@ action: approve
 priority: 2
 
 ---
-## redirect questions that belong in the weekly thread 
-type: text submission
-title (includes): ["?"]
-comment: |
-    Your submission looks like a question. Does your post belong in the stickied "Entering & Transitioning" thread?
-    
-    We're working on [our wiki](https://www.reddit.com/r/datascience/wiki/index) where we've curated answers to commonly asked questions. Give it a look!  
-priority: 2
-
----
 # ----------------------------------------------------------------------------
 # Flair Posts 
 # ----------------------------------------------------------------------------
