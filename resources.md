@@ -26,6 +26,10 @@ The following sections are ideal first texts for those interested in a career in
 
 * [Free ebook](https://otexts.org/fpp2/)
 
+[Time Series Classification with TensorFlow](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
+
+[Time Series Forecasting with TensorFlow](https://github.com/guillaume-chevalier/seq2seq-signal-prediction)
+
 
 ### R Programming
 
